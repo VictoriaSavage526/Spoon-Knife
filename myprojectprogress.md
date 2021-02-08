@@ -1,0 +1,1 @@
+I am thinking of doing a project that revolves around expanding known capabilities of a rudimentary open-source spreadsheet. I hope to work on extending functionality and improving aesthetics and user friendliness. 
